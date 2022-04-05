@@ -1,4 +1,19 @@
-### Hi there 👋
+# Bonjour, je m'appelle David Ratz 👋
+
+Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.
+
+
+## Langages utilisés et connus
+
+
+
+## Frameworks utilisés et connus
+
+
+
+## Bases de données
+
+
 
 <!--
 **DavidRatz/DavidRatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
