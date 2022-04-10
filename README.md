@@ -2,17 +2,29 @@
 
 Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.
 
+## Projets réalisés
+
+<a href="https://davidratz.github.io/MasterMind">Mastermind</a>
+<a href="https://github.com/DavidRatz/Labyrinthe">Labyrinthe</a>
+<a href="https://github.com/DavidRatz/HotelJPA">Exercice JPA</a>
 
 ## Langages utilisés et connus
 
-
+<img align="left" alt="java" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/java_logo.png" />
+<img align="left" alt="html5" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/html5_logo.png" />
+<img align="left" alt="css3" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/css_logo.png" />
+<img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/bootstrap_logo.png" />
+<img align="left" alt="angular" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/angular_logo.png" />
 
 ## Frameworks utilisés et connus
 
-
+<img align="left" alt="spring" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/spring_logo.jpg" />
+<img align="left" alt="vscode" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/vscode_logo.png" />
 
 ## Bases de données
 
+<img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/sql_logo.png" />
+<img align="left" alt="sqlserver" width="30px" src="https://raw.githubusercontent.com/DavidRatz/images/sql_server_logo.png" />
 
 
 <!--
