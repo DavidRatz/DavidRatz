@@ -18,6 +18,7 @@ Je suis à la recherche d'un stage en tant que développeur java dans la région
 <img align="left" alt="css3" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/css_logo.png" />
 <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/bootstrap_logo.png" />
 <img align="left" alt="angular" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/angular_logo.png" />
+<br>
 </div>
 
 ## Frameworks utilisés et connus
@@ -25,6 +26,7 @@ Je suis à la recherche d'un stage en tant que développeur java dans la région
 <div>
 <img align="left" alt="spring" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/spring_logo.jpg" />
 <img align="left" alt="vscode" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/vscode_logo.png" />
+<br>
 </div>
 
 ## Bases de données
