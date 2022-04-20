@@ -1,7 +1,8 @@
 # Bonjour, je m'appelle David Ratz 👋
 
 Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.
-Voici mon <a href="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/docs/RATZ_David_CV.pdf">CV</a>
+<br>
+Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_David_CV.pdf">CV</a>
 
 ## Projets réalisés
 
@@ -25,16 +26,16 @@ Voici mon <a href="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/do
 ## Frameworks utilisés et connus
 
 <div>
-<img align="left" alt="spring" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/spring_logo.png" />
-<img align="left" alt="vscode" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/vscode_logo.png" />
+<img align="left" alt="spring" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/spring_logo.png" />
+<img align="left" alt="vscode" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/vscode_logo.png" />
 <br>
 </div>
 
 ## Bases de données
 
 <div>
-<img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/sql_logo.png" />
-<img align="left" alt="sqlserver" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/sql_server_logo.png" />
+<img align="left" alt="sql" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/sql_logo.png" />
+<img align="left" alt="sqlserver" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/sql_server_logo.png" />
 </div>
 
 <!--
