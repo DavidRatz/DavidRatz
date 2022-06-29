@@ -21,6 +21,7 @@
 <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/bootstrap_logo.png" />
 <img align="left" alt="angular" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/angular_logo.png" />
 </div>
+<p></p>
 
 ## Frameworks utilisés et connus
 
@@ -28,6 +29,7 @@
 <img align="left" alt="spring" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/spring_logo.png" />
 <img align="left" alt="vscode" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/vscode_logo.png" />
 </div>
+<p></p>
 
 ## Bases de données
 
