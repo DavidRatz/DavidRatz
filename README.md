@@ -15,12 +15,12 @@
 ## Langages utilisés et connus
 
 <div>
-  <img alt="java" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/java_logo.png" />
+  <img alt="java" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/java_logo.png" />
   <img alt="spring" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/spring_logo.png" />
-  <img alt="html5" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/HTML5_logo.png" />
-  <img alt="css3" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/css_logo.png" />
-  <img alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/bootstrap_logo.png" />
-  <img alt="angular" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/angular_logo.png" />
+  <img alt="html5" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/HTML5_logo.png" />
+  <img alt="css3" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/css_logo.png" />
+  <img alt="bootstrap" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/bootstrap_logo.png" />
+  <img alt="angular" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/angular_logo.png" />
 </div>
 
 ## Bases de données
