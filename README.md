@@ -1,8 +1,8 @@
 # Bonjour, je m'appelle David Ratz 👋
 
-Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.
-<br>
-Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_David_CV.pdf">CV</a>
+<p>Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.</p>
+
+<p>Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_David_CV.pdf">CV</a></p>
 
 ## Projets réalisés
 
@@ -20,7 +20,6 @@ Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_Da
 <img align="left" alt="css3" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/css_logo.png" />
 <img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/bootstrap_logo.png" />
 <img align="left" alt="angular" width="30px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/angular_logo.png" />
-<br>
 </div>
 
 ## Frameworks utilisés et connus
@@ -28,7 +27,6 @@ Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_Da
 <div>
 <img align="left" alt="spring" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/spring_logo.png" />
 <img align="left" alt="vscode" width="60px" src="https://raw.githubusercontent.com/DavidRatz/DavidRatz/main/images/vscode_logo.png" />
-<br>
 </div>
 
 ## Bases de données
