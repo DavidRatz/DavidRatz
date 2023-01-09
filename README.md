@@ -1,6 +1,6 @@
 # Bonjour, je m'appelle David Ratz 👋
 
-<p>Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.</p>
+<p>Je suis à la recherche d'un emploi en tant que développeur java dans la région de Liège.</p>
 
 <p>Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_David_CV.pdf">CV</a></p>
 
