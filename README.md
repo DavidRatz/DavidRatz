@@ -2,7 +2,7 @@
 
 Je suis à la recherche d'un stage en tant que développeur java dans la région de Liège.
 <br>
-Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/RATZ_David_CV.pdf">CV</a>
+Voici mon <a href="https://github.com/DavidRatz/DavidRatz/blob/main/docs/CV_Developpeur_java_David_Ratz.pdf">CV</a>
 
 ## Projets réalisés
 
